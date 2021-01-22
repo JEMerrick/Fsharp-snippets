@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bxvaBmR9QHRBaY1chGDePSof+uAy5WteSyx8gO6oxOnAk3O5jF0jgOrJ3WlPrIvb54D88giaJzn88626bmeeWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joann\\source\\repos\\PlaneEq\\PlaneEq\\PlaneEq.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joann\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
