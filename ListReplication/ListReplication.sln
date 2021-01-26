@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ListReplication", "ListReplication\ListReplication.fsproj", "{FD181DAE-5D3D-46D6-B33D-FA5E8F201F60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD181DAE-5D3D-46D6-B33D-FA5E8F201F60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD181DAE-5D3D-46D6-B33D-FA5E8F201F60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD181DAE-5D3D-46D6-B33D-FA5E8F201F60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD181DAE-5D3D-46D6-B33D-FA5E8F201F60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B82C6F86-2FCC-461D-BF4D-9AE84E2E82AE}
+	EndGlobalSection
+EndGlobal

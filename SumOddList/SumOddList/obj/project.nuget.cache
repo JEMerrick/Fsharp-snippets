@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ckjMlWq/sKPVqUNUaa1lYr37knXWLZ3S9vF3UmjiZtZDU+PMCj1iRwMnWuGTo3jIr8AlELmNihDFUVfLe5kAJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joann\\source\\repos\\Fsharp-snippets\\Fsharp-snippets\\SumOddList\\SumOddList\\SumOddList.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joann\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

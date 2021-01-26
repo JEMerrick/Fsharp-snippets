@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O/nE8EP9rUdZf4tGBH4GcnCY/B1f3uUizoLn1t8G5RcWAOs1ZzU9exxBZzhILm3wSiJeNFGLnRCo4a5aGvB/Pg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joann\\source\\repos\\Fsharp-snippets\\Fsharp-snippets\\IndexFilter\\IndexFilter\\IndexFilter.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joann\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5ieDej08OgwIe9mALlK968tneR0jrgZ/P5LncUN7O+TQFx0BK8ICpHdWIbbLlEq83buN3//VWBsuxZcw2Yv1lA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joann\\source\\repos\\Fsharp-snippets\\Fsharp-snippets\\IO\\IO\\IO.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joann\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

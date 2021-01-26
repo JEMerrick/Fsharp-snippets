@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vWLfijld5Vt8qXx+8hosNhuVMH6SrYajhHCWm4blF6Q0O6TOnBiH70Qe4uR8fY2btO1ladeSRZURa09uotl79w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joann\\source\\repos\\Fsharp-snippets\\Fsharp-snippets\\Expo\\Expo\\Expo.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joann\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
