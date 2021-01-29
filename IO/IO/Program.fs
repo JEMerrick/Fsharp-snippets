@@ -2,6 +2,9 @@
 
 open System
 
+let InputToList () =
+    Console.ReadLine().Split(' ') |> List.ofArray |> List.map (fun v -> int(v))
+
 let rec readlines numList = 
     let line = Console.ReadLine()
     match line with
