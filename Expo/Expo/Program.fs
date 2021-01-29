@@ -1,17 +1,25 @@
-﻿let fact n =
-    [1.0 .. n] |> List.reduce (*)
+﻿open System
+
+let fact n =
+    if n = 0.0
+    then 1.0
+    else List.reduce (*) [1.0 .. float n]
 
 let exp x =
     let term i =
-        (float(x) ** float(i)) / fact(i)
+        (x ** float(i)) / fact(i)
+        
     [0.0..9.0] |> List.map term |> List.reduce (+)
 
-let input = 
-    stdin.ReadToEnd().Split '\n' 
-    |> Array.map(fun x -> int(x)) 
-    |> Array.toList
+let rec input numList = 
+    let line = Console.ReadLine()
+    match line with
+    | null -> []
+    | _ -> (line |> float)::(input numList)
     
 [<EntryPoint>]
 let main argv = 
-    input |> List.map exp |> printf "%A\n" 
+    Console.ReadLine() //don't need n
+    
+    input [] |> List.map exp |> Seq.iter (printf "%f\n" )
     0 // return an integer exit code
